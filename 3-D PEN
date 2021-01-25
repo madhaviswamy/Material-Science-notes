@@ -1,0 +1,34 @@
+3D pens are analogous to a hot glue gun but can make structures in 3 dimensional space. 
+Most pens work on the principle of using a thermal process for softening and melting of the filament material to be extruded through the nozzle of the printing pen. 
+
+These pens use ABS, PLA, FLEXY as a filament with size usually ranging from 1.75-3 mm. Along with these, some pens also support wood, metal and nylon blends.
+
+A 3D pen can be used across diverse disciplines viz. Art, design, engineering, technology and biology. 
+It can also be used to repair small scale errors and inaccuracies of the desktop 3D printed objects. In some cases the material to be printed can also be recycled.
+
+The emergence of a 3D pen brings 3D modeling from a screen-based computer-aided design (CAD) system and 3D printing to direct and rapid crafting by 3D doodling. 
+However, the only critical challenge in the structural development of the object to be produced is the crafting skills one requires to execute the design. 
+
+A study by Haruki Takahashi and Jeeeun kim suggests that users need support to reduce the number of non-creative tasks to explore a wide design strategy. 
+A system of a 3D pen+3D printer was built with the approach of enabling the users to print while doodling to focus on creative exploration.
+This study also suggests the use of a Hybrid fabrication by integrating digital fabrication techniques with analog craft practice to extend traditional craft.
+This value addition can help with creative freedom through a 3D pen while also offloading non-creative work to a 3D printer.
+
+To lower the entry barrier for users, most general-purpose CAD tools have users work from shape primitives or spline systems, which unwillingly induce a procedural process while a hand-held 3D printer (pen) allows users to directly manipulate 3D shapes on-the-fly without any digital 3D models ready for processing and to modify the modeling process as they make things using craft materials.
+
+Certain ways in which a 3D pen can be an aid to a 3D printer are: [1]  Adding details to a 3D printed body.
+[2]  Wireframes can be developed by 3D printing for global shapes.
+[3]  Integrating material properties.
+[4]  Transforming planar figures to 3D shapes.
+[5]  Making functional additives for 3D printed parts.
+[6]  Error corrections associated while printing
+
+It is understood that the creative use of craft tools also empowers the artist’s creativity, it is also to be noted that there may be some discrepancies in each object created manually. 
+Stringing is a fabrication error common in both 3D printing and 3D pen. It occurs when small strings of plastic are left behind on a 3D printed model. 
+This is typically due to plastic oozing out of the nozzle while the extruder is moving to a new location.
+Some common practices in avoiding stringing are setting optimum stroke speed, temperature, reducing movement speed and drawing short movements over open spaces. 
+Additional polishing step may be required to remove the excess of filament drawn on the surface using a harder sandpaper, this ensures there is uniformity on the surface. Special attention needs to be given while mechanical polishing as it may leed to fracture line development. 
+
+Many 3D pen prototypes have also been proposed to draw thermoplastic electrochemical sensors-electrodes, fabricate bioactive materials for medical applications and to fabricate paper-based analytical devices, etc. 
+Commercial PLA filaments containing carbon black or graphene can be used in the 3D pen to extrude the electrodes. 
+Lab-made conductive filaments using recycled polymers can decrease even more the cost for obtaining the electrodes using the 3D pen.
